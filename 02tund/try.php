@@ -26,8 +26,9 @@
   <p>Lehe avamise hetkel oli aeg:
   <?php echo $fullTimeNow; ?>. </p>
   <?php echo "Lehe avamise hetkel oli " .$partOfDay ?>.
+  <hr>
+  <p>https://martinv4@github.com/martinv4/veebiprogrammeerimine.git 
+  martinv4@users.noreply.github.com </p>
 </body>
 </html>
 
-https://martinv4@github.com/martinv4/veebiprogrammeerimine.git
-martinv4@users.noreply.github.com
