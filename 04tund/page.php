@@ -92,7 +92,8 @@
   <?php echo "Lehe avamise hetkel oli " .$partOfDay ?>.
  
   <?php
-  echo date("l, F");
+  //nädalapäev ja kuu puudu;
+  //echo 
   //?>
   
   <hr>
